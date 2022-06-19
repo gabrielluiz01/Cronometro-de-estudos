@@ -4,11 +4,11 @@ Nessa aplicação você digita o que você planeja estudar e coloca o tempo (obs
 Selecionando um desses itens ele inseri o tempo no cronometro, clicando em começar ele começa uma contagem regressiva até chegar no 00:00, chegando no 00:00 ele deixa sinalizado qual foi a tarefa que você concluiu.
 
 ## 🛠 Tecnologias usadas
-React
+[React](https://pt-br.reactjs.org/)
 
-Typescript
+[Typescript](https://www.typescriptlang.org/)
 
-Sass
+[Sass](https://sass-lang.com/)
 
 ## URL do site
 https://62af88a61949a30cde9a8965--cronometro-de-estudos.netlify.app/
