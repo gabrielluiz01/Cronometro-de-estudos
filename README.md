@@ -1,4 +1,4 @@
-# Cronoemtro de estudos
+# Cronometro de estudos
 Nessa aplicação você digita o que você planeja estudar e coloca o tempo (obs: Máximo de 59min) que você quer estudar. Após isso ele irá criar uma lista de estudo com tudo que você digitou e escolheu tempo.
 
 Selecionando um desses itens ele inseri o tempo no cronometro, clicando em começar ele começa uma contagem regressiva até chegar no 00:00, chegando no 00:00 ele deixa sinalizado qual foi a tarefa que você concluiu.
